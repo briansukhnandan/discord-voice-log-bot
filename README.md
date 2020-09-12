@@ -4,9 +4,9 @@
 ## Requirements
 This bot requires Python 3.6.
 
-To install requirements:
+To initialize Docker container:
 
-```pip install -r requirements.txt```
+```chmod +x setup/env_setup.sh && ./setup/env_setup.sh```
 
 ## Configuration
 You might want to create a new bot on Discord (i.e., create an application at https://discordapp.com/developers/applications/me/ and turn it into a bot).
