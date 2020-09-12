@@ -1,7 +1,7 @@
 # Discord voice log bot
 ## Original author: Beskhue
 ## Forked by: briansukhnandan
-## Requirements
+## Setup
 
 I have included a Docker container for a more straight-forward setup:
 
