@@ -7,7 +7,7 @@ I have included a Docker container for a more straight-forward setup:
 
 ```chmod +x setup/env_setup.sh && ./setup/env_setup.sh```
 
-***You only have to run this once!***
+***You only have to run this once upon initial setup!***
 
 ## Configuration
 You might want to create a new bot on Discord (i.e., create an application at https://discordapp.com/developers/applications/me/ and turn it into a bot).
