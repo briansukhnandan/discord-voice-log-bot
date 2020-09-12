@@ -7,6 +7,8 @@ I have included a Docker container for a more straight-forward setup:
 
 ```chmod +x setup/env_setup.sh && ./setup/env_setup.sh```
 
+***You only have to run this once!***
+
 ## Configuration
 You might want to create a new bot on Discord (i.e., create an application at https://discordapp.com/developers/applications/me/ and turn it into a bot).
 
@@ -24,7 +26,7 @@ Run the bot by executing:
 
 ```./run_bot.sh```
 
-after running `env_setup.sh`.
+after configuring `config.ini` and initializing the Docker container.
 
 ## Usage
 Proceed to your Discord server and create a text channel named 'voice-log' and give the appropriate permissions
