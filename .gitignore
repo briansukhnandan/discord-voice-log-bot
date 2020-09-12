@@ -1,3 +1,4 @@
 /env
 /src/config.ini
+venv
 *.pyc
