@@ -2,9 +2,8 @@
 ## Original author: Beskhue
 ## Forked by: briansukhnandan
 ## Requirements
-This bot requires Python 3.6.
 
-To initialize Docker container:
+I have included a Docker container for a more straight-forward setup:
 
 ```chmod +x setup/env_setup.sh && ./setup/env_setup.sh```
 
@@ -23,8 +22,9 @@ where '#################' is your Bot's token obtained from 'https://discordapp.
 ## Running
 Run the bot by executing:
 
-```python3.6 src/main.py```
-after installing requirements.
+```./run_bot.sh```
+
+after running `env_setup.sh`.
 
 ## Usage
 Proceed to your Discord server and create a text channel named 'voice-log' and give the appropriate permissions
